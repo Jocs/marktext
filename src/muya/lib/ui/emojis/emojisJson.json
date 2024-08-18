@@ -113,6 +113,18 @@
     "tags": []
   },
   {
+    "emoji": "🫠",
+    "description": "melting face",
+    "category": "Smileys & Emotion",
+    "aliases": [
+      "melting_face"
+    ],
+    "tags": [
+      "sarcasm",
+      "dread"
+    ]
+  },
+  {
     "emoji": "😉",
     "description": "winking face",
     "category": "Smileys & Emotion",
@@ -307,7 +319,7 @@
   },
   {
     "emoji": "🤗",
-    "description": "hugging face",
+    "description": "smiling face with open hands",
     "category": "Smileys & Emotion",
     "aliases": [
       "hugs"
@@ -325,6 +337,27 @@
       "quiet",
       "whoops"
     ]
+  },
+  {
+    "emoji": "🫢",
+    "description": "face with open eyes and hand over mouth",
+    "category": "Smileys & Emotion",
+    "aliases": [
+      "face_with_open_eyes_and_hand_over_mouth"
+    ],
+    "tags": [
+      "gasp",
+      "shock"
+    ]
+  },
+  {
+    "emoji": "🫣",
+    "description": "face with peeking eye",
+    "category": "Smileys & Emotion",
+    "aliases": [
+      "face_with_peeking_eye"
+    ],
+    "tags": []
   },
   {
     "emoji": "🤫",
@@ -346,6 +379,17 @@
       "thinking"
     ],
     "tags": []
+  },
+  {
+    "emoji": "🫡",
+    "description": "saluting face",
+    "category": "Smileys & Emotion",
+    "aliases": [
+      "saluting_face"
+    ],
+    "tags": [
+      "respect"
+    ]
   },
   {
     "emoji": "🤐",
@@ -400,6 +444,17 @@
     "tags": [
       "mute",
       "silence"
+    ]
+  },
+  {
+    "emoji": "🫥",
+    "description": "dotted line face",
+    "category": "Smileys & Emotion",
+    "aliases": [
+      "dotted_line_face"
+    ],
+    "tags": [
+      "invisible"
     ]
   },
   {
@@ -469,6 +524,17 @@
     ],
     "tags": [
       "liar"
+    ]
+  },
+  {
+    "emoji": "🫨",
+    "description": "shaking face",
+    "category": "Smileys & Emotion",
+    "aliases": [
+      "shaking_face"
+    ],
+    "tags": [
+      "shock"
     ]
   },
   {
@@ -630,7 +696,7 @@
   },
   {
     "emoji": "😵",
-    "description": "knocked-out face",
+    "description": "face with crossed-out eyes",
     "category": "Smileys & Emotion",
     "aliases": [
       "dizzy_face"
@@ -730,6 +796,17 @@
     "tags": []
   },
   {
+    "emoji": "🫤",
+    "description": "face with diagonal mouth",
+    "category": "Smileys & Emotion",
+    "aliases": [
+      "face_with_diagonal_mouth"
+    ],
+    "tags": [
+      "confused"
+    ]
+  },
+  {
     "emoji": "😟",
     "description": "worried face",
     "category": "Smileys & Emotion",
@@ -814,6 +891,18 @@
     "tags": [
       "puppy",
       "eyes"
+    ]
+  },
+  {
+    "emoji": "🥹",
+    "description": "face holding back tears",
+    "category": "Smileys & Emotion",
+    "aliases": [
+      "face_holding_back_tears"
+    ],
+    "tags": [
+      "tears",
+      "gratitude"
     ]
   },
   {
@@ -995,7 +1084,7 @@
   },
   {
     "emoji": "😡",
-    "description": "pouting face",
+    "description": "enraged face",
     "category": "Smileys & Emotion",
     "aliases": [
       "rage",
@@ -1290,17 +1379,6 @@
     ]
   },
   {
-    "emoji": "💋",
-    "description": "kiss mark",
-    "category": "Smileys & Emotion",
-    "aliases": [
-      "kiss"
-    ],
-    "tags": [
-      "lipstick"
-    ]
-  },
-  {
     "emoji": "💌",
     "description": "love letter",
     "category": "Smileys & Emotion",
@@ -1437,6 +1515,15 @@
     ]
   },
   {
+    "emoji": "🩷",
+    "description": "pink heart",
+    "category": "Smileys & Emotion",
+    "aliases": [
+      "pink_heart"
+    ],
+    "tags": []
+  },
+  {
     "emoji": "🧡",
     "description": "orange heart",
     "category": "Smileys & Emotion",
@@ -1473,6 +1560,15 @@
     "tags": []
   },
   {
+    "emoji": "🩵",
+    "description": "light blue heart",
+    "category": "Smileys & Emotion",
+    "aliases": [
+      "light_blue_heart"
+    ],
+    "tags": []
+  },
+  {
     "emoji": "💜",
     "description": "purple heart",
     "category": "Smileys & Emotion",
@@ -1500,6 +1596,15 @@
     "tags": []
   },
   {
+    "emoji": "🩶",
+    "description": "grey heart",
+    "category": "Smileys & Emotion",
+    "aliases": [
+      "grey_heart"
+    ],
+    "tags": []
+  },
+  {
     "emoji": "🤍",
     "description": "white heart",
     "category": "Smileys & Emotion",
@@ -1507,6 +1612,17 @@
       "white_heart"
     ],
     "tags": []
+  },
+  {
+    "emoji": "💋",
+    "description": "kiss mark",
+    "category": "Smileys & Emotion",
+    "aliases": [
+      "kiss"
+    ],
+    "tags": [
+      "lipstick"
+    ]
   },
   {
     "emoji": "💯",
@@ -1589,17 +1705,6 @@
     "tags": []
   },
   {
-    "emoji": "💣",
-    "description": "bomb",
-    "category": "Smileys & Emotion",
-    "aliases": [
-      "bomb"
-    ],
-    "tags": [
-      "boom"
-    ]
-  },
-  {
     "emoji": "💬",
     "description": "speech balloon",
     "category": "Smileys & Emotion",
@@ -1650,7 +1755,7 @@
   },
   {
     "emoji": "💤",
-    "description": "zzz",
+    "description": "ZZZ",
     "category": "Smileys & Emotion",
     "aliases": [
       "zzz"
@@ -1719,6 +1824,66 @@
     "skin_tones": true
   },
   {
+    "emoji": "🫱",
+    "description": "rightwards hand",
+    "category": "People & Body",
+    "aliases": [
+      "rightwards_hand"
+    ],
+    "tags": [],
+    "skin_tones": true
+  },
+  {
+    "emoji": "🫲",
+    "description": "leftwards hand",
+    "category": "People & Body",
+    "aliases": [
+      "leftwards_hand"
+    ],
+    "tags": [],
+    "skin_tones": true
+  },
+  {
+    "emoji": "🫳",
+    "description": "palm down hand",
+    "category": "People & Body",
+    "aliases": [
+      "palm_down_hand"
+    ],
+    "tags": [],
+    "skin_tones": true
+  },
+  {
+    "emoji": "🫴",
+    "description": "palm up hand",
+    "category": "People & Body",
+    "aliases": [
+      "palm_up_hand"
+    ],
+    "tags": [],
+    "skin_tones": true
+  },
+  {
+    "emoji": "🫷",
+    "description": "leftwards pushing hand",
+    "category": "People & Body",
+    "aliases": [
+      "leftwards_pushing_hand"
+    ],
+    "tags": [],
+    "skin_tones": true
+  },
+  {
+    "emoji": "🫸",
+    "description": "rightwards pushing hand",
+    "category": "People & Body",
+    "aliases": [
+      "rightwards_pushing_hand"
+    ],
+    "tags": [],
+    "skin_tones": true
+  },
+  {
     "emoji": "👌",
     "description": "OK hand",
     "category": "People & Body",
@@ -1772,6 +1937,16 @@
       "luck",
       "hopeful"
     ],
+    "skin_tones": true
+  },
+  {
+    "emoji": "🫰",
+    "description": "hand with index finger and thumb crossed",
+    "category": "People & Body",
+    "aliases": [
+      "hand_with_index_finger_and_thumb_crossed"
+    ],
+    "tags": [],
     "skin_tones": true
   },
   {
@@ -1861,6 +2036,16 @@
     "category": "People & Body",
     "aliases": [
       "point_up"
+    ],
+    "tags": [],
+    "skin_tones": true
+  },
+  {
+    "emoji": "🫵",
+    "description": "index pointing at the viewer",
+    "category": "People & Body",
+    "aliases": [
+      "index_pointing_at_the_viewer"
     ],
     "tags": [],
     "skin_tones": true
@@ -1966,6 +2151,18 @@
     "skin_tones": true
   },
   {
+    "emoji": "🫶",
+    "description": "heart hands",
+    "category": "People & Body",
+    "aliases": [
+      "heart_hands"
+    ],
+    "tags": [
+      "love"
+    ],
+    "skin_tones": true
+  },
+  {
     "emoji": "👐",
     "description": "open hands",
     "category": "People & Body",
@@ -1994,7 +2191,8 @@
     ],
     "tags": [
       "deal"
-    ]
+    ],
+    "skin_tones": true
   },
   {
     "emoji": "🙏",
@@ -2220,6 +2418,15 @@
     "tags": [
       "kiss"
     ]
+  },
+  {
+    "emoji": "🫦",
+    "description": "biting lip",
+    "category": "People & Body",
+    "aliases": [
+      "biting_lip"
+    ],
+    "tags": []
   },
   {
     "emoji": "👶",
@@ -3525,6 +3732,16 @@
     "skin_tones": true
   },
   {
+    "emoji": "🫅",
+    "description": "person with crown",
+    "category": "People & Body",
+    "aliases": [
+      "person_with_crown"
+    ],
+    "tags": [],
+    "skin_tones": true
+  },
+  {
     "emoji": "🤴",
     "description": "prince",
     "category": "People & Body",
@@ -3676,6 +3893,26 @@
     "category": "People & Body",
     "aliases": [
       "pregnant_woman"
+    ],
+    "tags": [],
+    "skin_tones": true
+  },
+  {
+    "emoji": "🫃",
+    "description": "pregnant man",
+    "category": "People & Body",
+    "aliases": [
+      "pregnant_man"
+    ],
+    "tags": [],
+    "skin_tones": true
+  },
+  {
+    "emoji": "🫄",
+    "description": "pregnant person",
+    "category": "People & Body",
+    "aliases": [
+      "pregnant_person"
     ],
     "tags": [],
     "skin_tones": true
@@ -4033,6 +4270,15 @@
     "category": "People & Body",
     "aliases": [
       "zombie_woman"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🧌",
+    "description": "troll",
+    "category": "People & Body",
+    "aliases": [
+      "troll"
     ],
     "tags": []
   },
@@ -5573,6 +5819,28 @@
     "tags": []
   },
   {
+    "emoji": "🫎",
+    "description": "moose",
+    "category": "Animals & Nature",
+    "aliases": [
+      "moose"
+    ],
+    "tags": [
+      "canada"
+    ]
+  },
+  {
+    "emoji": "🫏",
+    "description": "donkey",
+    "category": "Animals & Nature",
+    "aliases": [
+      "donkey"
+    ],
+    "tags": [
+      "mule"
+    ]
+  },
+  {
     "emoji": "🐎",
     "description": "horse",
     "category": "Animals & Nature",
@@ -6144,6 +6412,37 @@
     "tags": []
   },
   {
+    "emoji": "🪽",
+    "description": "wing",
+    "category": "Animals & Nature",
+    "aliases": [
+      "wing"
+    ],
+    "tags": [
+      "fly"
+    ]
+  },
+  {
+    "emoji": "🐦‍⬛",
+    "description": "black bird",
+    "category": "Animals & Nature",
+    "aliases": [
+      "black_bird"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🪿",
+    "description": "goose",
+    "category": "Animals & Nature",
+    "aliases": [
+      "goose"
+    ],
+    "tags": [
+      "honk"
+    ]
+  },
+  {
     "emoji": "🐸",
     "description": "frog",
     "category": "Animals & Nature",
@@ -6325,6 +6624,24 @@
       "sea",
       "beach"
     ]
+  },
+  {
+    "emoji": "🪸",
+    "description": "coral",
+    "category": "Animals & Nature",
+    "aliases": [
+      "coral"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🪼",
+    "description": "jellyfish",
+    "category": "Animals & Nature",
+    "aliases": [
+      "jellyfish"
+    ],
+    "tags": []
   },
   {
     "emoji": "🐌",
@@ -6510,6 +6827,15 @@
     "tags": []
   },
   {
+    "emoji": "🪷",
+    "description": "lotus",
+    "category": "Animals & Nature",
+    "aliases": [
+      "lotus"
+    ],
+    "tags": []
+  },
+  {
     "emoji": "🏵️",
     "description": "rosette",
     "category": "Animals & Nature",
@@ -6575,6 +6901,15 @@
     "tags": [
       "flower"
     ]
+  },
+  {
+    "emoji": "🪻",
+    "description": "hyacinth",
+    "category": "Animals & Nature",
+    "aliases": [
+      "hyacinth"
+    ],
+    "tags": []
   },
   {
     "emoji": "🌱",
@@ -6705,6 +7040,35 @@
     ],
     "tags": [
       "leaf"
+    ]
+  },
+  {
+    "emoji": "🪹",
+    "description": "empty nest",
+    "category": "Animals & Nature",
+    "aliases": [
+      "empty_nest"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🪺",
+    "description": "nest with eggs",
+    "category": "Animals & Nature",
+    "aliases": [
+      "nest_with_eggs"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🍄",
+    "description": "mushroom",
+    "category": "Animals & Nature",
+    "aliases": [
+      "mushroom"
+    ],
+    "tags": [
+      "fungus"
     ]
   },
   {
@@ -7001,15 +7365,6 @@
     "tags": []
   },
   {
-    "emoji": "🍄",
-    "description": "mushroom",
-    "category": "Food & Drink",
-    "aliases": [
-      "mushroom"
-    ],
-    "tags": []
-  },
-  {
     "emoji": "🥜",
     "description": "peanuts",
     "category": "Food & Drink",
@@ -7019,11 +7374,38 @@
     "tags": []
   },
   {
+    "emoji": "🫘",
+    "description": "beans",
+    "category": "Food & Drink",
+    "aliases": [
+      "beans"
+    ],
+    "tags": []
+  },
+  {
     "emoji": "🌰",
     "description": "chestnut",
     "category": "Food & Drink",
     "aliases": [
       "chestnut"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🫚",
+    "description": "ginger root",
+    "category": "Food & Drink",
+    "aliases": [
+      "ginger_root"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🫛",
+    "description": "pea pod",
+    "category": "Food & Drink",
+    "aliases": [
+      "pea_pod"
     ],
     "tags": []
   },
@@ -7834,6 +8216,15 @@
     ]
   },
   {
+    "emoji": "🫗",
+    "description": "pouring liquid",
+    "category": "Food & Drink",
+    "aliases": [
+      "pouring_liquid"
+    ],
+    "tags": []
+  },
+  {
     "emoji": "🥤",
     "description": "cup with straw",
     "category": "Food & Drink",
@@ -7931,6 +8322,15 @@
       "cut",
       "chop"
     ]
+  },
+  {
+    "emoji": "🫙",
+    "description": "jar",
+    "category": "Food & Drink",
+    "aliases": [
+      "jar"
+    ],
+    "tags": []
   },
   {
     "emoji": "🏺",
@@ -8517,6 +8917,15 @@
     "tags": []
   },
   {
+    "emoji": "🛝",
+    "description": "playground slide",
+    "category": "Travel & Places",
+    "aliases": [
+      "playground_slide"
+    ],
+    "tags": []
+  },
+  {
     "emoji": "🎡",
     "description": "ferris wheel",
     "category": "Travel & Places",
@@ -8958,6 +9367,15 @@
     "tags": []
   },
   {
+    "emoji": "🛞",
+    "description": "wheel",
+    "category": "Travel & Places",
+    "aliases": [
+      "wheel"
+    ],
+    "tags": []
+  },
+  {
     "emoji": "🚨",
     "description": "police car light",
     "category": "Travel & Places",
@@ -9018,6 +9436,17 @@
     ],
     "tags": [
       "ship"
+    ]
+  },
+  {
+    "emoji": "🛟",
+    "description": "ring buoy",
+    "category": "Travel & Places",
+    "aliases": [
+      "ring_buoy"
+    ],
+    "tags": [
+      "life preserver"
     ]
   },
   {
@@ -10543,6 +10972,18 @@
     "tags": []
   },
   {
+    "emoji": "🔫",
+    "description": "water pistol",
+    "category": "Activities",
+    "aliases": [
+      "gun"
+    ],
+    "tags": [
+      "shoot",
+      "weapon"
+    ]
+  },
+  {
     "emoji": "🎱",
     "description": "pool 8 ball",
     "category": "Activities",
@@ -10571,15 +11012,6 @@
     "category": "Activities",
     "aliases": [
       "magic_wand"
-    ],
-    "tags": []
-  },
-  {
-    "emoji": "🧿",
-    "description": "nazar amulet",
-    "category": "Activities",
-    "aliases": [
-      "nazar_amulet"
     ],
     "tags": []
   },
@@ -10652,6 +11084,18 @@
       "pinata"
     ],
     "tags": []
+  },
+  {
+    "emoji": "🪩",
+    "description": "mirror ball",
+    "category": "Activities",
+    "aliases": [
+      "mirror_ball"
+    ],
+    "tags": [
+      "disco",
+      "party"
+    ]
   },
   {
     "emoji": "🪆",
@@ -10994,6 +11438,17 @@
     "tags": []
   },
   {
+    "emoji": "🪭",
+    "description": "folding hand fan",
+    "category": "Objects",
+    "aliases": [
+      "folding_hand_fan"
+    ],
+    "tags": [
+      "sensu"
+    ]
+  },
+  {
     "emoji": "👛",
     "description": "purse",
     "category": "Objects",
@@ -11131,6 +11586,15 @@
     "category": "Objects",
     "aliases": [
       "boot"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🪮",
+    "description": "hair pick",
+    "category": "Objects",
+    "aliases": [
+      "hair_pick"
     ],
     "tags": []
   },
@@ -11527,6 +11991,28 @@
     "tags": []
   },
   {
+    "emoji": "🪇",
+    "description": "maracas",
+    "category": "Objects",
+    "aliases": [
+      "maracas"
+    ],
+    "tags": [
+      "shaker"
+    ]
+  },
+  {
+    "emoji": "🪈",
+    "description": "flute",
+    "category": "Objects",
+    "aliases": [
+      "flute"
+    ],
+    "tags": [
+      "recorder"
+    ]
+  },
+  {
     "emoji": "📱",
     "description": "mobile phone",
     "category": "Objects",
@@ -11600,6 +12086,15 @@
     "tags": [
       "power"
     ]
+  },
+  {
+    "emoji": "🪫",
+    "description": "low battery",
+    "category": "Objects",
+    "aliases": [
+      "low_battery"
+    ],
+    "tags": []
   },
   {
     "emoji": "🔌",
@@ -12692,15 +13187,14 @@
     "tags": []
   },
   {
-    "emoji": "🔫",
-    "description": "water pistol",
+    "emoji": "💣",
+    "description": "bomb",
     "category": "Objects",
     "aliases": [
-      "gun"
+      "bomb"
     ],
     "tags": [
-      "shoot",
-      "weapon"
+      "boom"
     ]
   },
   {
@@ -12973,11 +13467,29 @@
     "tags": []
   },
   {
+    "emoji": "🩼",
+    "description": "crutch",
+    "category": "Objects",
+    "aliases": [
+      "crutch"
+    ],
+    "tags": []
+  },
+  {
     "emoji": "🩺",
     "description": "stethoscope",
     "category": "Objects",
     "aliases": [
       "stethoscope"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🩻",
+    "description": "x-ray",
+    "category": "Objects",
+    "aliases": [
+      "x_ray"
     ],
     "tags": []
   },
@@ -13168,6 +13680,15 @@
     "tags": []
   },
   {
+    "emoji": "🫧",
+    "description": "bubbles",
+    "category": "Objects",
+    "aliases": [
+      "bubbles"
+    ],
+    "tags": []
+  },
+  {
     "emoji": "🪥",
     "description": "toothbrush",
     "category": "Objects",
@@ -13244,6 +13765,24 @@
     "tags": []
   },
   {
+    "emoji": "🧿",
+    "description": "nazar amulet",
+    "category": "Objects",
+    "aliases": [
+      "nazar_amulet"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🪬",
+    "description": "hamsa",
+    "category": "Objects",
+    "aliases": [
+      "hamsa"
+    ],
+    "tags": []
+  },
+  {
     "emoji": "🗿",
     "description": "moai",
     "category": "Objects",
@@ -13260,6 +13799,15 @@
     "category": "Objects",
     "aliases": [
       "placard"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🪪",
+    "description": "identification card",
+    "category": "Objects",
+    "aliases": [
+      "identification_card"
     ],
     "tags": []
   },
@@ -13815,6 +14363,15 @@
     "tags": []
   },
   {
+    "emoji": "🪯",
+    "description": "khanda",
+    "category": "Symbols",
+    "aliases": [
+      "khanda"
+    ],
+    "tags": []
+  },
+  {
     "emoji": "♈",
     "description": "Aries",
     "category": "Symbols",
@@ -14139,6 +14696,17 @@
     ]
   },
   {
+    "emoji": "🛜",
+    "description": "wireless",
+    "category": "Symbols",
+    "aliases": [
+      "wireless"
+    ],
+    "tags": [
+      "wifi"
+    ]
+  },
+  {
     "emoji": "📳",
     "description": "vibration mode",
     "category": "Symbols",
@@ -14219,6 +14787,15 @@
     "category": "Symbols",
     "aliases": [
       "heavy_division_sign"
+    ],
+    "tags": []
+  },
+  {
+    "emoji": "🟰",
+    "description": "heavy equals sign",
+    "category": "Symbols",
+    "aliases": [
+      "heavy_equals_sign"
     ],
     "tags": []
   },
