@@ -94,6 +94,9 @@
   <a href="docs/i18n/ko.md#readme">
     <span>:kr:</span>
   </a>
+  <a href="docs/i18n/ar.md#readme">
+    <span>:ar:</span>
+  </a>
 </div>
 
 <div align="center">
