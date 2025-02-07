@@ -184,7 +184,7 @@ Open Collective: في هذا المنصة، جميع نفقاتنا شفافة. 
 
 لمعرفة التغييرات في الإصدار الأخير، راجع [سجل التغييرات](.github/CHANGELOG.md).
 
-#### macOS
+#### ماك
 
 يمكنك تنزيل أحدث إصدار من [صفحة الإصدارات](https://github.com/marktext/marktext/releases/latest) كملف `marktext-%version%.dmg`، أو تثبيت MarkText باستخدام Homebrew Cask. لاستخدام Homebrew-Cask، يجب أن يكون لديك [Homebrew](https://brew.sh/) مثبتًا.
 
@@ -192,7 +192,7 @@ Open Collective: في هذا المنصة، جميع نفقاتنا شفافة. 
 brew install --cask mark-text
 ```
 
-#### windows
+#### ويندوز
 
 قم بتنزيل المثبّت (`marktext-setup-%version%.exe`) وتشغيله.
 
@@ -225,7 +225,7 @@ choco install marktext
 
 ## المساهمة
 
-لا يزال MarkText قيد التطوير. يُرجى التأكد من قراءة [دليل المساهمة](../../CONTRIBUTING.md) قبل تقديم طلب سحب. إذا كنت ترغب في إضافة بعض الميزات إلى MarkText، فراجع [خارطة الطريق](https://github.com/marktext/marktext/projects) والقضايا المفتوحة.
+لا يزال MarkText قيد التطوير. يُرجى التأكد من قراءة [دليل المساهمة](../../CONTRIBUTING.md) قبل تقديم طلب سحب. إذا كنت ترغب في إضافة بعض الميزات إلى MarkText، فراجع [خارطة التطوير](https://github.com/marktext/marktext/projects) والقضايا المفتوحة.
 
 ## المساهمون
 
